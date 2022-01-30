@@ -1,3 +1,5 @@
+# To Get The Dribbles folder go to this link as there are many images and github can't do more than 100 files
+
 import os
 import time
 import turtle
